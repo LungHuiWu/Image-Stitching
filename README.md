@@ -24,5 +24,5 @@ This folder contains 6 images, the --center argument take the third image as the
 
 ##### Output Panorama
 
-![result](/Users/LungHuiWu/Dropbox/Mac/Desktop/數位視覺效果/hw2_[76]/result.png)
+![result](result.png)
 
