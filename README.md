@@ -24,5 +24,5 @@ This folder contains 6 images, the --center argument take the third image as the
 
 ##### Output Panorama
 
-![result](result.png)
+![result](result.jpeg)
 
